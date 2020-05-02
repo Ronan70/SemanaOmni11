@@ -1,4 +1,4 @@
-# SemanaOmnistack11RLF
+# SemanaOmnistack11
 
 
 Aplicação para aprendizado
